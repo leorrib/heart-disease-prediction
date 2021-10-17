@@ -1,6 +1,6 @@
 # Heart Disease Study
-Welcome to real-data study about Heart Disease! Here you will find: 
-1 - a discussion about the data of patients that went through a battery of heart related medical exams. 
+Welcome to real-data study about Heart Disease! Here you will find:\
+1 - a discussion about the data of patients that went through a battery of heart related medical exams.\
 2 - the creation of a Machine Learning Model (classification) that will predict if a patient has a heart disease or not.
 
 ## How to Run
